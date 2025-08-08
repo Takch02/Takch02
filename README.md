@@ -1,11 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?&type=transparent&color=auto&height=200&section=header&text=Go%20To%20Work&fontSize=70" />
 
+ <img height=190 width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=Takch02&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+
 ### 🔥 Chan Hong 🔥
 
  <a href="https://github.com/Takch02"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://velog.io/@takch02/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br>
 
 ### 🗡️ Stack 🗡️
+
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot" />
@@ -25,5 +28,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma" /><br>
 </div>
 
-
-<div align="left">
