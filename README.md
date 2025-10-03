@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?&type=transparent&color=auto&height=200&section=header&text=Go%20To%20Work&fontSize=70&desc=2024.05%20~%20current" />
+<img src="https://capsule-render.vercel.app/api?&type=transparent&color=auto&height=350&section=header&text=Go%20To%20Work&fontSize=70&desc=2024.05%20~%20current" />
 
  <img height=190 width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=Takch02&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 
