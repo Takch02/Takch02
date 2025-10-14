@@ -8,7 +8,7 @@
 
  <a href="https://github.com/Takch02"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://velog.io/@takch02/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://marsh-daphne-2cf.notion.site/27e54d88dbff80deaa42e6744719b60a"><img src="https://img.shields.io/badge/profile-000000?style=flat-square&logo=Notion&logoColor=white"/></a></br>
+<a href="https://marsh-daphne-2cf.notion.site/Developer-28c54d88dbff80079554c8dc107eb42b"><img src="https://img.shields.io/badge/profile-000000?style=flat-square&logo=Notion&logoColor=white"/></a></br>
 
 ### 🗡️ Stack 🗡️
 
