@@ -4,7 +4,7 @@
 
 ### 🔥 Chan Hong 🔥
 
-비전공자의 힘을 보여주마
+비전공자로 시작해서 복수전공중
 
  <a href="https://github.com/Takch02"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://velog.io/@takch02/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
