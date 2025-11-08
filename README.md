@@ -15,8 +15,6 @@
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /><br>
     
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square" alt="MariaDB" /><br>
