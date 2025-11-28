@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=transparent&color=auto&height=300&section=header&text=Go%20To%20Work&fontSize=70&desc=2024.05%20~%20current" />
+  <img src="https://capsule-render.vercel.app/api?&type=transparent&color=auto&height=250&section=header&text=Go%20To%20Work&fontSize=60&desc=2024.05%20~%20current" />
 </p>
 
 <h3 align="center">🔥 Chan Hong 🔥</h3>
