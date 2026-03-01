@@ -15,7 +15,7 @@
   <a href="https://velog.io/@takch02/posts" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
-  <a href="https://marsh-daphne-2cf.notion.site/Developer-28c54d88dbff80079554c8dc107eb42b">
+  <a href="https://marsh-daphne-2cf.notion.site/31554d88dbff80d98243eb8f8c7259c9">
     <img src="https://img.shields.io/badge/profile-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
 </p>
