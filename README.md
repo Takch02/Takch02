@@ -1,24 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=transparent&color=auto&height=250&section=header&text=Go%20To%20Work&fontSize=60&desc=2024.05%20~%20current" />
+  <img src="https://capsule-render.vercel.app/api?&type=transparent&color=auto&height=200&section=header&text=Go%20To%20Work&fontSize=40&desc=2024.05%20~%20current" />
 </p>
 
-<h3 align="center">🔥 Chan Hong 🔥</h3>
+<h3 align="center"> Chan Hong </h3>
 
 <p align="center">
-  비전공자로 시작해서 복수전공중
-</p>
-
-<p align="center">
-  <a href="https://github.com/Takch02">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@takch02/posts" target="_blank">
+  Portfolio : <a href="https://glitter-iguanodon-1a7.notion.site/324493fe4ebc8015b82ee363475b3469"><img src="https://img.shields.io/badge/profile-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+</br>
+  Tech Blog : <a href="https://velog.io/@takch02/posts" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
-  <a href="https://glitter-iguanodon-1a7.notion.site/324493fe4ebc8015b82ee363475b3469">
-    <img src="https://img.shields.io/badge/profile-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
+  </br>
 </p>
+
+<h3 align = "center"> OpenSource Contribution </h3>
+<p align="center">
+   <a href="https://github.com/apache/amoro">
+    <img src="https://img.shields.io/badge/Apache-Amoro-D22128?style=flat-square&logo=apache&logoColor=white"/>
+  </a> </br>Partition / Non-Partition 테이블 테스트 커버리지 확장 </br>
+    <a href="https://github.com/apache/sedona">
+    <img src="https://img.shields.io/badge/Apache-Sedona-D22128?style=flat-square&logo=apache&logoColor=white"/>
+  </a> </br> Documentation 링크 수정 및 문서 개선
+</p>
+
 
 <p align="center">
   <a href="https://solved.ac/tag22kr/">
@@ -37,12 +41,6 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square" alt="MariaDB" /><br>
 
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS" /><br>
-
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square" alt="Notion" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma" /><br>
 
 </div>
