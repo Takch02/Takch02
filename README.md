@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=transparent&color=auto&height=200&section=header&text=Go%20To%20Work&fontSize=40&desc=2024.05%20~%20current" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=36BCF7&lines=Hi!+I'm+CHANHONG"/>
 </p>
-
-<h3 align="center"> Chan Hong </h3>
 
 <p align="center">
   Portfolio : <a href="https://glitter-iguanodon-1a7.notion.site/324493fe4ebc8015b82ee363475b3469"><img src="https://img.shields.io/badge/profile-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -13,7 +11,15 @@
   </br>
 </p>
 
-<h3 align = "center"> OpenSource Contribution </h3>
+<p align="center">
+  <a href="https://solved.ac/tag22kr/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tag22kr" />
+  </a>
+</p>
+
+
+<div align="center">
+<h3 align = "center">🗡️ OpenSource Contribution 🗡️</h3>
 <p align="center">
    <a href="https://github.com/apache/amoro">
     <img src="https://img.shields.io/badge/Apache-Amoro-D22128?style=flat-square&logo=apache&logoColor=white"/>
@@ -22,25 +28,4 @@
     <img src="https://img.shields.io/badge/Apache-Sedona-D22128?style=flat-square&logo=apache&logoColor=white"/>
   </a> </br> Documentation 링크 수정 및 문서 개선
 </p>
-
-
-<p align="center">
-  <a href="https://solved.ac/tag22kr/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tag22kr" />
-  </a>
-</p>
-
-<h3 align="center">🗡️ Stack 🗡️</h3>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot" />
-    
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square" alt="MariaDB" /><br>
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS" /><br>
-
 </div>
