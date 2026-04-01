@@ -21,10 +21,10 @@
 <div align="center">
 <h3 align = "center">🗡️ OpenSource Contribution 🗡️</h3>
 <p align="center">
-   <a href="https://github.com/apache/amoro">
+   <a href="https://github.com/apache/amoro/pull/4137">
     <img src="https://img.shields.io/badge/Apache-Amoro-D22128?style=flat-square&logo=apache&logoColor=white"/>
   </a> </br>Partition / Non-Partition 테이블 테스트 커버리지 확장(진행중) </br>
-    <a href="https://github.com/apache/sedona">
+    <a href="https://github.com/apache/sedona/pull/2767">
     <img src="https://img.shields.io/badge/Apache-Sedona-D22128?style=flat-square&logo=apache&logoColor=white"/>
   </a> </br> Documentation 링크 수정 및 문서 개선
 </p>
