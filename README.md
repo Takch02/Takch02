@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://glitter-iguanodon-1a7.notion.site/324493fe4ebc8015b82ee363475b3469)
+[![Resume](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Github&logoColor=white)](https://takch02.github.io/resume0524.pdf)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@takch02/posts)
 
 </div>
