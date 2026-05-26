@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://github.com/mapstruct/mapstruct/pull/4047">
     <img src="https://img.shields.io/badge/MapStruct-green?style=flat-square&logo=apache&logoColor=white"/>
-  </a> </br> Zone/OffestDateTime -> LocalDateTime 변환 시 XML을 통한 변환을 내부 Mapper로 변환하도록 버그 수정 </br>
+  </a> </br>Zone/OffestDateTime -> LocalDateTime 변환 시 XML을 통한 변환을 내부 Mapper로 변환하도록 버그 수정 & 8가지 변환 추가 </br>
    <a href="https://github.com/apache/amoro/pull/4137">
     <img src="https://img.shields.io/badge/Apache-Amoro-D22128?style=flat-square&logo=apache&logoColor=white"/>
   </a> </br>Partition / Non-Partition 테이블 테스트 커버리지 확장 및 프러덕션 코드 수정</br>
