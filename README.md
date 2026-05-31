@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Links -->
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Github&logoColor=white)](https://takch02.github.io/resume0524.pdf)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Github&logoColor=white)](https://takch02.github.io/resume.pdf)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@takch02/posts)
 
 </div>
