@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=36BCF7&center=true&lines=Hi!+I'm+CHANHONG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&height=50&lines=Hi!+My+Name+is+CHANHONG.)](https://git.io/typing-svg)
 
 <br/>
 
